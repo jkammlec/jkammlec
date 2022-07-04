@@ -1,5 +1,5 @@
 
-<div>
+<div display="inline">
 - 🔭 Actualmente estoy trabajando en un proyecto de red social llamado ✨Fancosfic✨ <br>
 - 🌱 Estoy aprendiendo javascript, próximamente React... <br>
 - 📫 Encuéntrame en <a href="https://www.linkedin.com/in/javiera-kammle/">Linkedin </a></div>
