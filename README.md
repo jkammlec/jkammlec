@@ -1,6 +1,10 @@
-
-<div display="inline" width="200px">
+<style>
+  .divimg {
+   border-radius="50%"
+  }
+</style>
+<div width="200px">
 - 🔭 Actualmente estoy trabajando en un proyecto de red social llamado ✨Fancosfic✨ <br>
 - 🌱 Estoy aprendiendo javascript, próximamente React... <br>
 - 📫 Encuéntrame en <a href="https://www.linkedin.com/in/javiera-kammle/">Linkedin </a></div>
-  <div display="inline" border-radius="50%" align="right"><img src="https://user-images.githubusercontent.com/26625809/177217878-96201b32-f3bc-483a-a6a7-34e138791fad.png" width="150px"></div>
+  <div class="divimg"  align="right"><img src="https://user-images.githubusercontent.com/26625809/177217878-96201b32-f3bc-483a-a6a7-34e138791fad.png" width="150px"></div>
