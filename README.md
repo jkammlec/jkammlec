@@ -1,6 +1,6 @@
 <h1 align="center">👋🏻 ¡Hola! Soy Javiera, una web developer junior y... 👇🏻</h1>
 
- <p align="center">🔭 Actualmente estoy trabajando en un proyecto para guardar notas llamado ✨Cat-notes✨</p>
+ <p align="center">🔭 Actualmente estoy buscando mi primer trabajo como Front-End Developer</p>
  <p align="center">🌱 Estoy aprendiendo el primero de muchos frameworks: React... 🤟🏻</p>
  <p align="center">📫 Encuéntrame en <a href="https://www.linkedin.com/in/javiera-kammle/">Linkedin</a></p> 
  <p align="center"> ⬇️🛠️💻⬇️</p> 
